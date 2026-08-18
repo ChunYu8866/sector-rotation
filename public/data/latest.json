@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "requestedDate": "2026-08-18",
-  "updatedAt": "2026-08-18T10:59:46.033Z",
+  "updatedAt": "2026-08-18T11:15:17.459Z",
   "marketChg1d": -1.2,
   "isMarketDown": true,
   "sectors": [
@@ -23,16 +23,16 @@
         "8046",
         "8213"
       ],
-      "net_1d_yi": 124.6,
-      "net_5d_yi": 444.15,
-      "net_20d_yi": 621.52,
+      "net_1d_yi": 124.59,
+      "net_5d_yi": 444.17,
+      "net_20d_yi": 621.45,
       "avg_abs_daily_20d": 43.38,
-      "chg_1d": -1.1,
-      "chg_5d": 1.34,
-      "accel": 57.75,
+      "chg_1d": -1.15,
+      "chg_5d": 0.95,
+      "accel": 57.76,
       "category": "green",
       "is_bottom_fishing": true,
-      "bottom_score": 137.06
+      "bottom_score": 143.28
     },
     {
       "name": "晶圓代工",
@@ -49,13 +49,13 @@
         "6770",
         "7828"
       ],
-      "net_1d_yi": -100.95,
-      "net_5d_yi": 246.58,
-      "net_20d_yi": -512.19,
-      "avg_abs_daily_20d": 151.91,
-      "chg_1d": -3.79,
-      "chg_5d": -3.24,
-      "accel": 74.92,
+      "net_1d_yi": -104.37,
+      "net_5d_yi": 239.51,
+      "net_20d_yi": -523.17,
+      "avg_abs_daily_20d": 152.09,
+      "chg_1d": -3.83,
+      "chg_5d": -3.67,
+      "accel": 74.06,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -70,16 +70,16 @@
         "3653",
         "6230"
       ],
-      "net_1d_yi": 63.7,
-      "net_5d_yi": 212.8,
-      "net_20d_yi": 519.44,
-      "avg_abs_daily_20d": 31.8,
-      "chg_1d": -3,
-      "chg_5d": 2.49,
-      "accel": 16.59,
+      "net_1d_yi": 65.34,
+      "net_5d_yi": 213.69,
+      "net_20d_yi": 519.45,
+      "avg_abs_daily_20d": 32.05,
+      "chg_1d": -2.95,
+      "chg_5d": 0.93,
+      "accel": 16.77,
       "category": "green",
       "is_bottom_fishing": true,
-      "bottom_score": 191.1
+      "bottom_score": 192.75
     },
     {
       "name": "AI PC 筆電與平板",
@@ -97,12 +97,12 @@
         "3625",
         "3673"
       ],
-      "net_1d_yi": 27.76,
-      "net_5d_yi": 204.8,
-      "net_20d_yi": 579.22,
+      "net_1d_yi": 27.77,
+      "net_5d_yi": 204.81,
+      "net_20d_yi": 579.18,
       "avg_abs_daily_20d": 33.29,
-      "chg_1d": -1.26,
-      "chg_5d": -0.7,
+      "chg_1d": -1.92,
+      "chg_5d": -2.11,
       "accel": 12,
       "category": "green",
       "is_bottom_fishing": false,
@@ -132,13 +132,13 @@
         "7863",
         "8367"
       ],
-      "net_1d_yi": 48.3,
-      "net_5d_yi": 166.67,
-      "net_20d_yi": 426.89,
+      "net_1d_yi": 48.27,
+      "net_5d_yi": 166.63,
+      "net_20d_yi": 426.92,
       "avg_abs_daily_20d": 23.36,
-      "chg_1d": 1.37,
-      "chg_5d": 4.78,
-      "accel": 11.99,
+      "chg_1d": 1.4,
+      "chg_5d": 4.64,
+      "accel": 11.98,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -162,13 +162,39 @@
         "8271",
         "9102"
       ],
-      "net_1d_yi": 6.51,
-      "net_5d_yi": 160.12,
-      "net_20d_yi": 610.18,
-      "avg_abs_daily_20d": 71.76,
-      "chg_1d": -2.46,
-      "chg_5d": -2.99,
-      "accel": 1.51,
+      "net_1d_yi": -13.96,
+      "net_5d_yi": 161.91,
+      "net_20d_yi": 597.4,
+      "avg_abs_daily_20d": 71.75,
+      "chg_1d": -2.59,
+      "chg_5d": -3.59,
+      "accel": 2.51,
+      "category": "green",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "高速光模組",
+      "stocks": [
+        "3081",
+        "3234",
+        "3303",
+        "3450",
+        "4906",
+        "4979",
+        "6177",
+        "6207",
+        "6588",
+        "7717",
+        "8121"
+      ],
+      "net_1d_yi": 28.7,
+      "net_5d_yi": 109.22,
+      "net_20d_yi": 154.46,
+      "avg_abs_daily_20d": 13.53,
+      "chg_1d": -0.34,
+      "chg_5d": -0.18,
+      "accel": 14.12,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -208,32 +234,6 @@
       "bottom_score": 0
     },
     {
-      "name": "高速光模組",
-      "stocks": [
-        "3081",
-        "3234",
-        "3303",
-        "3450",
-        "4906",
-        "4979",
-        "6177",
-        "6207",
-        "6588",
-        "7717",
-        "8121"
-      ],
-      "net_1d_yi": 19.65,
-      "net_5d_yi": 68.98,
-      "net_20d_yi": 114.14,
-      "avg_abs_daily_20d": 11.52,
-      "chg_1d": 0.53,
-      "chg_5d": 3.61,
-      "accel": 8.09,
-      "category": "green",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
       "name": "客製 ASIC 矽智財",
       "stocks": [
         "3443",
@@ -242,13 +242,13 @@
         "6533",
         "6643"
       ],
-      "net_1d_yi": -2.34,
-      "net_5d_yi": 66.79,
-      "net_20d_yi": 81,
-      "avg_abs_daily_20d": 12.43,
-      "chg_1d": -4.42,
-      "chg_5d": -1.41,
-      "accel": 9.31,
+      "net_1d_yi": -4.14,
+      "net_5d_yi": 64.95,
+      "net_20d_yi": 74.02,
+      "avg_abs_daily_20d": 12.4,
+      "chg_1d": -4.07,
+      "chg_5d": -5.27,
+      "accel": 9.29,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -275,13 +275,13 @@
         "6559",
         "9106"
       ],
-      "net_1d_yi": 5.03,
-      "net_5d_yi": 62.26,
-      "net_20d_yi": 2.67,
-      "avg_abs_daily_20d": 7.85,
-      "chg_1d": -2.1,
-      "chg_5d": 2.76,
-      "accel": 12.32,
+      "net_1d_yi": 5.55,
+      "net_5d_yi": 62.8,
+      "net_20d_yi": 2.82,
+      "avg_abs_daily_20d": 7.89,
+      "chg_1d": -1.07,
+      "chg_5d": 1.59,
+      "accel": 12.42,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -301,13 +301,13 @@
         "7711",
         "8050"
       ],
-      "net_1d_yi": -71.03,
-      "net_5d_yi": 60.38,
-      "net_20d_yi": 1021.85,
-      "avg_abs_daily_20d": 91.96,
-      "chg_1d": -1.65,
-      "chg_5d": -1.7,
-      "accel": -39.02,
+      "net_1d_yi": -70.92,
+      "net_5d_yi": 59.05,
+      "net_20d_yi": 1020.6,
+      "avg_abs_daily_20d": 91.9,
+      "chg_1d": -1.64,
+      "chg_5d": -1.92,
+      "accel": -39.22,
       "category": "yellow",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -333,16 +333,16 @@
         "4563",
         "4580"
       ],
-      "net_1d_yi": 39.78,
-      "net_5d_yi": 53.44,
-      "net_20d_yi": 141.06,
-      "avg_abs_daily_20d": 8.66,
-      "chg_1d": -0.53,
-      "chg_5d": 0.4,
-      "accel": 3.63,
+      "net_1d_yi": 39.43,
+      "net_5d_yi": 53.02,
+      "net_20d_yi": 140.87,
+      "avg_abs_daily_20d": 8.65,
+      "chg_1d": -0.76,
+      "chg_5d": -1.58,
+      "accel": 3.56,
       "category": "green",
       "is_bottom_fishing": true,
-      "bottom_score": 21.08
+      "bottom_score": 29.97
     },
     {
       "name": "HPC 與網通 IC",
@@ -365,13 +365,13 @@
         "6788",
         "8086"
       ],
-      "net_1d_yi": -71.5,
-      "net_5d_yi": 37.92,
-      "net_20d_yi": -6.46,
-      "avg_abs_daily_20d": 45,
-      "chg_1d": -2.83,
-      "chg_5d": -6.12,
-      "accel": 7.91,
+      "net_1d_yi": -78.43,
+      "net_5d_yi": 31.3,
+      "net_20d_yi": -15.44,
+      "avg_abs_daily_20d": 45.19,
+      "chg_1d": -2.73,
+      "chg_5d": -4.52,
+      "accel": 7.03,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -397,13 +397,13 @@
         "8107",
         "8109"
       ],
-      "net_1d_yi": -0.85,
-      "net_5d_yi": 31.05,
-      "net_20d_yi": 32.61,
+      "net_1d_yi": -1.09,
+      "net_5d_yi": 30.75,
+      "net_20d_yi": 32.54,
       "avg_abs_daily_20d": 2.7,
-      "chg_1d": -1.39,
-      "chg_5d": -1.25,
-      "accel": 4.58,
+      "chg_1d": -1.11,
+      "chg_5d": -1.02,
+      "accel": 4.52,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -438,13 +438,13 @@
         "3455",
         "6510"
       ],
-      "net_1d_yi": 1.85,
-      "net_5d_yi": 21.25,
-      "net_20d_yi": -35.2,
-      "avg_abs_daily_20d": 5.86,
-      "chg_1d": -1.73,
-      "chg_5d": 0.57,
-      "accel": 6.01,
+      "net_1d_yi": -0.63,
+      "net_5d_yi": 21.11,
+      "net_20d_yi": -36.11,
+      "avg_abs_daily_20d": 5.88,
+      "chg_1d": -1.45,
+      "chg_5d": 0.61,
+      "accel": 6.03,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -473,13 +473,13 @@
         "4722",
         "6505"
       ],
-      "net_1d_yi": 0.33,
-      "net_5d_yi": 19.08,
-      "net_20d_yi": -108.92,
+      "net_1d_yi": -0.05,
+      "net_5d_yi": 18.76,
+      "net_20d_yi": -109.17,
       "avg_abs_daily_20d": 20.18,
-      "chg_1d": -0.75,
-      "chg_5d": -1.14,
-      "accel": 9.26,
+      "chg_1d": -0.87,
+      "chg_5d": -1.13,
+      "accel": 9.21,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -496,13 +496,29 @@
         "6272",
         "6640"
       ],
-      "net_1d_yi": -2.88,
-      "net_5d_yi": 16.07,
-      "net_20d_yi": 16.17,
-      "avg_abs_daily_20d": 4,
-      "chg_1d": -2.34,
-      "chg_5d": -3.74,
-      "accel": 2.4,
+      "net_1d_yi": -2.98,
+      "net_5d_yi": 18.43,
+      "net_20d_yi": 18.49,
+      "avg_abs_daily_20d": 4.12,
+      "chg_1d": -1.81,
+      "chg_5d": -2.76,
+      "accel": 2.76,
+      "category": "green",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "BBU 電池備援",
+      "stocks": [
+        "4931"
+      ],
+      "net_1d_yi": 0.59,
+      "net_5d_yi": 10.46,
+      "net_20d_yi": 15.38,
+      "avg_abs_daily_20d": 1.16,
+      "chg_1d": -3.71,
+      "chg_5d": -2.81,
+      "accel": 1.32,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -550,14 +566,32 @@
         "6269",
         "8039"
       ],
-      "net_1d_yi": -17.39,
-      "net_5d_yi": 4.2,
-      "net_20d_yi": -154.02,
-      "avg_abs_daily_20d": 29.53,
-      "chg_1d": -1.6,
-      "chg_5d": 0.2,
-      "accel": 8.54,
+      "net_1d_yi": -17.4,
+      "net_5d_yi": 4.25,
+      "net_20d_yi": -154.11,
+      "avg_abs_daily_20d": 29.52,
+      "chg_1d": -1.64,
+      "chg_5d": -0.37,
+      "accel": 8.56,
       "category": "green",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "低軌衛星",
+      "stocks": [
+        "2313",
+        "2419",
+        "3380"
+      ],
+      "net_1d_yi": -1.33,
+      "net_5d_yi": 3.54,
+      "net_20d_yi": 39.09,
+      "avg_abs_daily_20d": 8.39,
+      "chg_1d": -2.5,
+      "chg_5d": -2.38,
+      "accel": -1.25,
+      "category": "yellow",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
@@ -584,32 +618,14 @@
         "7738",
         "8155"
       ],
-      "net_1d_yi": 1.49,
-      "net_5d_yi": 3.58,
-      "net_20d_yi": 5.46,
-      "avg_abs_daily_20d": 1.11,
-      "chg_1d": -1.38,
-      "chg_5d": 5.05,
+      "net_1d_yi": 1.37,
+      "net_5d_yi": 3.18,
+      "net_20d_yi": 4.02,
+      "avg_abs_daily_20d": 1.06,
+      "chg_1d": -0.77,
+      "chg_5d": -0.89,
       "accel": 0.44,
       "category": "green",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "低軌衛星",
-      "stocks": [
-        "2313",
-        "2419",
-        "3380"
-      ],
-      "net_1d_yi": -1.33,
-      "net_5d_yi": 3.54,
-      "net_20d_yi": 39.09,
-      "avg_abs_daily_20d": 8.39,
-      "chg_1d": -2.5,
-      "chg_5d": -2.38,
-      "accel": -1.25,
-      "category": "yellow",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
@@ -627,29 +643,13 @@
         "5609",
         "7716"
       ],
-      "net_1d_yi": 2.82,
-      "net_5d_yi": 2.71,
-      "net_20d_yi": 14.67,
-      "avg_abs_daily_20d": 1.18,
-      "chg_1d": 3.85,
-      "chg_5d": 5.1,
+      "net_1d_yi": 2.83,
+      "net_5d_yi": 2.68,
+      "net_20d_yi": 14.54,
+      "avg_abs_daily_20d": 1.17,
+      "chg_1d": 2.02,
+      "chg_5d": 2.89,
       "accel": -0.19,
-      "category": "yellow",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "BBU 電池備援",
-      "stocks": [
-        "4931"
-      ],
-      "net_1d_yi": 0,
-      "net_5d_yi": 2.67,
-      "net_20d_yi": 11.15,
-      "avg_abs_daily_20d": 0.95,
-      "chg_1d": 0,
-      "chg_5d": 0,
-      "accel": -0.02,
       "category": "yellow",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -666,75 +666,6 @@
       "chg_1d": -3.91,
       "chg_5d": -1.91,
       "accel": 0.4,
-      "category": "green",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "資源環保工業",
-      "stocks": [
-        "1417",
-        "1503",
-        "1519",
-        "2503",
-        "5205",
-        "5432",
-        "6581",
-        "6624",
-        "6641",
-        "6803",
-        "6969",
-        "7610",
-        "8011",
-        "8341",
-        "8422",
-        "8423",
-        "8473",
-        "8476",
-        "9930",
-        "9955"
-      ],
-      "net_1d_yi": -2.84,
-      "net_5d_yi": 1.99,
-      "net_20d_yi": 16.13,
-      "avg_abs_daily_20d": 2.19,
-      "chg_1d": -0.85,
-      "chg_5d": -0.59,
-      "accel": -0.41,
-      "category": "yellow",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "太陽能產業",
-      "stocks": [
-        "1529",
-        "3514",
-        "3519",
-        "3561",
-        "3576",
-        "3599",
-        "3691",
-        "5227",
-        "6244",
-        "6692",
-        "6806",
-        "6839",
-        "6887",
-        "6944",
-        "6946",
-        "6947",
-        "6977",
-        "6987",
-        "6994"
-      ],
-      "net_1d_yi": -0.82,
-      "net_5d_yi": 1.72,
-      "net_20d_yi": -13.03,
-      "avg_abs_daily_20d": 1.39,
-      "chg_1d": -1.92,
-      "chg_5d": -1.53,
-      "accel": 1,
       "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -763,14 +694,83 @@
         "8016",
         "8111"
       ],
-      "net_1d_yi": -5.58,
-      "net_5d_yi": 1.6,
-      "net_20d_yi": 72.86,
-      "avg_abs_daily_20d": 5.36,
-      "chg_1d": -3.15,
-      "chg_5d": -5.28,
-      "accel": -3.32,
+      "net_1d_yi": -5.48,
+      "net_5d_yi": 1.81,
+      "net_20d_yi": 72.34,
+      "avg_abs_daily_20d": 5.25,
+      "chg_1d": -2.28,
+      "chg_5d": -3.75,
+      "accel": -3.25,
       "category": "yellow",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "資源環保工業",
+      "stocks": [
+        "1417",
+        "1503",
+        "1519",
+        "2503",
+        "5205",
+        "5432",
+        "6581",
+        "6624",
+        "6641",
+        "6803",
+        "6969",
+        "7610",
+        "8011",
+        "8341",
+        "8422",
+        "8423",
+        "8473",
+        "8476",
+        "9930",
+        "9955"
+      ],
+      "net_1d_yi": -2.96,
+      "net_5d_yi": 1.73,
+      "net_20d_yi": 15.65,
+      "avg_abs_daily_20d": 2.18,
+      "chg_1d": -0.64,
+      "chg_5d": 0.61,
+      "accel": -0.44,
+      "category": "yellow",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "太陽能產業",
+      "stocks": [
+        "1529",
+        "3514",
+        "3519",
+        "3561",
+        "3576",
+        "3599",
+        "3691",
+        "5227",
+        "6244",
+        "6692",
+        "6806",
+        "6839",
+        "6887",
+        "6944",
+        "6946",
+        "6947",
+        "6977",
+        "6987",
+        "6994"
+      ],
+      "net_1d_yi": -1.01,
+      "net_5d_yi": 1.61,
+      "net_20d_yi": -13.72,
+      "avg_abs_daily_20d": 1.42,
+      "chg_1d": -2.72,
+      "chg_5d": -1.89,
+      "accel": 1.01,
+      "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
@@ -782,62 +782,14 @@
         "6121",
         "6558"
       ],
-      "net_1d_yi": 0,
-      "net_5d_yi": 1.58,
-      "net_20d_yi": 18.35,
-      "avg_abs_daily_20d": 2.35,
-      "chg_1d": 0.27,
-      "chg_5d": -2.21,
-      "accel": -0.6,
+      "net_1d_yi": -0.88,
+      "net_5d_yi": 1.05,
+      "net_20d_yi": 18.85,
+      "avg_abs_daily_20d": 2.32,
+      "chg_1d": -1.18,
+      "chg_5d": -4.87,
+      "accel": -0.73,
       "category": "yellow",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "精密機構件",
-      "stocks": [
-        "1563",
-        "2254",
-        "2258",
-        "4578",
-        "6603",
-        "6604",
-        "6606",
-        "6705",
-        "6727",
-        "6833",
-        "6983",
-        "7704"
-      ],
-      "net_1d_yi": -0.02,
-      "net_5d_yi": 1.28,
-      "net_20d_yi": 2.55,
-      "avg_abs_daily_20d": 0.34,
-      "chg_1d": -1.4,
-      "chg_5d": -3.14,
-      "accel": 0.13,
-      "category": "green",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "機殼與滑軌",
-      "stocks": [
-        "2491",
-        "3540",
-        "3693",
-        "6115",
-        "6117",
-        "6903"
-      ],
-      "net_1d_yi": -0.1,
-      "net_5d_yi": 1.12,
-      "net_20d_yi": 3.39,
-      "avg_abs_daily_20d": 0.65,
-      "chg_1d": 0.54,
-      "chg_5d": 1.7,
-      "accel": 0.05,
-      "category": "green",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
@@ -859,6 +811,27 @@
       "bottom_score": 0
     },
     {
+      "name": "機殼與滑軌",
+      "stocks": [
+        "2491",
+        "3540",
+        "3693",
+        "6115",
+        "6117",
+        "6903"
+      ],
+      "net_1d_yi": -0.48,
+      "net_5d_yi": 0.83,
+      "net_20d_yi": 1.54,
+      "avg_abs_daily_20d": 0.6,
+      "chg_1d": 0.12,
+      "chg_5d": 1.01,
+      "accel": 0.09,
+      "category": "green",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
       "name": "CNC 工具機",
       "stocks": [
         "1530",
@@ -868,14 +841,212 @@
         "4587",
         "6609"
       ],
-      "net_1d_yi": -0.42,
-      "net_5d_yi": 0.31,
-      "net_20d_yi": -10.37,
+      "net_1d_yi": -0.43,
+      "net_5d_yi": 0.34,
+      "net_20d_yi": -10.32,
       "avg_abs_daily_20d": 1.52,
-      "chg_1d": 1.15,
-      "chg_5d": 2.36,
+      "chg_1d": 0.84,
+      "chg_5d": 1.54,
       "accel": 0.58,
       "category": "green",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "精密機構件",
+      "stocks": [
+        "1563",
+        "2254",
+        "2258",
+        "4578",
+        "6603",
+        "6604",
+        "6606",
+        "6705",
+        "6727",
+        "6833",
+        "6983",
+        "7704"
+      ],
+      "net_1d_yi": -1.37,
+      "net_5d_yi": 0.13,
+      "net_20d_yi": 1.45,
+      "avg_abs_daily_20d": 0.41,
+      "chg_1d": -2.05,
+      "chg_5d": 0.75,
+      "accel": -0.05,
+      "category": "yellow",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "MicroLED 顯示供應鏈",
+      "stocks": [
+        "3535",
+        "3615",
+        "6111",
+        "6854"
+      ],
+      "net_1d_yi": 0.03,
+      "net_5d_yi": 0.12,
+      "net_20d_yi": 1.75,
+      "avg_abs_daily_20d": 0.19,
+      "chg_1d": -3.04,
+      "chg_5d": -3.42,
+      "accel": -0.06,
+      "category": "yellow",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "光感測與元件",
+      "stocks": [
+        "2448",
+        "2494",
+        "3080",
+        "3627",
+        "3698",
+        "5220",
+        "5251",
+        "5267",
+        "5277",
+        "6419",
+        "6434",
+        "6477",
+        "6498",
+        "6560"
+      ],
+      "net_1d_yi": 0.12,
+      "net_5d_yi": 0,
+      "net_20d_yi": -0.16,
+      "avg_abs_daily_20d": 0.21,
+      "chg_1d": -2.99,
+      "chg_5d": 1.65,
+      "accel": 0.01,
+      "category": "gray",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "AI 先進封裝",
+      "stocks": [
+        "3259"
+      ],
+      "net_1d_yi": -0.01,
+      "net_5d_yi": 0,
+      "net_20d_yi": 0,
+      "avg_abs_daily_20d": 0,
+      "chg_1d": -9.68,
+      "chg_5d": -10.64,
+      "accel": 0,
+      "category": "gray",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "日本後段設備",
+      "stocks": [
+        "6671"
+      ],
+      "net_1d_yi": 0,
+      "net_5d_yi": 0,
+      "net_20d_yi": 0,
+      "avg_abs_daily_20d": 0,
+      "chg_1d": 0,
+      "chg_5d": -3.04,
+      "accel": 0,
+      "category": "gray",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "資安防護",
+      "stocks": [
+        "5201",
+        "5210",
+        "5212",
+        "6123",
+        "6868",
+        "7765",
+        "7823"
+      ],
+      "net_1d_yi": -0.03,
+      "net_5d_yi": -0.04,
+      "net_20d_yi": 0.1,
+      "avg_abs_daily_20d": 0.04,
+      "chg_1d": -0.93,
+      "chg_5d": -1.57,
+      "accel": -0.01,
+      "category": "gray",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "氣冷與核心組件",
+      "stocks": [
+        "3015",
+        "3043"
+      ],
+      "net_1d_yi": -0.04,
+      "net_5d_yi": -0.07,
+      "net_20d_yi": -0.44,
+      "avg_abs_daily_20d": 0.1,
+      "chg_1d": -1.38,
+      "chg_5d": -0.46,
+      "accel": 0.01,
+      "category": "gray",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "電源供應器",
+      "stocks": [
+        "2418",
+        "2460",
+        "2462",
+        "3322",
+        "3484",
+        "3628",
+        "4588",
+        "5309",
+        "5457",
+        "5488",
+        "6114",
+        "6184",
+        "6412",
+        "6431",
+        "6512"
+      ],
+      "net_1d_yi": -0.55,
+      "net_5d_yi": -0.26,
+      "net_20d_yi": -1.22,
+      "avg_abs_daily_20d": 0.26,
+      "chg_1d": -0.93,
+      "chg_5d": -1.89,
+      "accel": 0.01,
+      "category": "gray",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "電池關鍵材料",
+      "stocks": [
+        "1537",
+        "3191",
+        "6495",
+        "6555",
+        "6883",
+        "6990",
+        "7758"
+      ],
+      "net_1d_yi": -0.1,
+      "net_5d_yi": -0.38,
+      "net_20d_yi": -0.29,
+      "avg_abs_daily_20d": 0.04,
+      "chg_1d": -0.82,
+      "chg_5d": -1.61,
+      "accel": -0.06,
+      "category": "gray",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
@@ -900,94 +1071,13 @@
         "6997",
         "7714"
       ],
-      "net_1d_yi": -0.08,
-      "net_5d_yi": 0.28,
-      "net_20d_yi": -3.94,
-      "avg_abs_daily_20d": 0.44,
-      "chg_1d": -1.12,
-      "chg_5d": -1.86,
-      "accel": 0.25,
-      "category": "green",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "電源供應器",
-      "stocks": [
-        "2418",
-        "2460",
-        "2462",
-        "3322",
-        "3484",
-        "3628",
-        "4588",
-        "5309",
-        "5457",
-        "5488",
-        "6114",
-        "6184",
-        "6412",
-        "6431",
-        "6512"
-      ],
-      "net_1d_yi": -0.37,
-      "net_5d_yi": 0.19,
-      "net_20d_yi": -0.93,
-      "avg_abs_daily_20d": 0.29,
-      "chg_1d": 0.18,
-      "chg_5d": -1.42,
-      "accel": 0.08,
-      "category": "green",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "AI 先進封裝",
-      "stocks": [
-        "3259"
-      ],
-      "net_1d_yi": 0,
-      "net_5d_yi": 0,
-      "net_20d_yi": 0,
-      "avg_abs_daily_20d": 0,
-      "chg_1d": 0,
-      "chg_5d": 0,
-      "accel": 0,
-      "category": "gray",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "日本後段設備",
-      "stocks": [
-        "6671"
-      ],
-      "net_1d_yi": 0,
-      "net_5d_yi": 0,
-      "net_20d_yi": 0,
-      "avg_abs_daily_20d": 0,
-      "chg_1d": 0,
-      "chg_5d": -3.04,
-      "accel": 0,
-      "category": "gray",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "MicroLED 顯示供應鏈",
-      "stocks": [
-        "3535",
-        "3615",
-        "6111",
-        "6854"
-      ],
-      "net_1d_yi": -0.03,
-      "net_5d_yi": -0.03,
-      "net_20d_yi": 1.9,
-      "avg_abs_daily_20d": 0.2,
-      "chg_1d": -3.14,
-      "chg_5d": -4.83,
-      "accel": -0.1,
+      "net_1d_yi": -0.82,
+      "net_5d_yi": -0.43,
+      "net_20d_yi": -5.24,
+      "avg_abs_daily_20d": 0.45,
+      "chg_1d": -0.72,
+      "chg_5d": 1.5,
+      "accel": 0.18,
       "category": "gray",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1000,104 +1090,89 @@
         "6280",
         "6290"
       ],
-      "net_1d_yi": 0,
-      "net_5d_yi": -0.03,
-      "net_20d_yi": 4.99,
-      "avg_abs_daily_20d": 0.72,
-      "chg_1d": 0,
-      "chg_5d": 0,
-      "accel": -0.26,
-      "category": "gray",
+      "net_1d_yi": 0.22,
+      "net_5d_yi": -0.56,
+      "net_20d_yi": 2.62,
+      "avg_abs_daily_20d": 0.66,
+      "chg_1d": -1,
+      "chg_5d": -3.23,
+      "accel": -0.24,
+      "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
     {
-      "name": "資安防護",
+      "name": "電阻與被動保護",
       "stocks": [
-        "5201",
-        "5210",
-        "5212",
-        "6123",
-        "6868",
-        "7765",
-        "7823"
+        "1781",
+        "2342",
+        "3042",
+        "3631",
+        "5291",
+        "6862",
+        "6913",
+        "6940"
       ],
-      "net_1d_yi": -0.02,
-      "net_5d_yi": -0.04,
-      "net_20d_yi": 0.1,
-      "avg_abs_daily_20d": 0.04,
-      "chg_1d": -0.87,
-      "chg_5d": -2.63,
-      "accel": -0.01,
-      "category": "gray",
+      "net_1d_yi": -14.34,
+      "net_5d_yi": -0.68,
+      "net_20d_yi": 7.62,
+      "avg_abs_daily_20d": 3.55,
+      "chg_1d": -1.41,
+      "chg_5d": 0.83,
+      "accel": -0.52,
+      "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
     {
-      "name": "氣冷與核心組件",
+      "name": "電容器",
       "stocks": [
-        "3015",
-        "3043"
+        "2472",
+        "3089",
+        "3465",
+        "6204",
+        "6276"
       ],
-      "net_1d_yi": -0.04,
-      "net_5d_yi": -0.07,
-      "net_20d_yi": -0.44,
-      "avg_abs_daily_20d": 0.1,
-      "chg_1d": -1.38,
-      "chg_5d": -0.46,
-      "accel": 0.01,
-      "category": "gray",
+      "net_1d_yi": 0.33,
+      "net_5d_yi": -3.55,
+      "net_20d_yi": -4.97,
+      "avg_abs_daily_20d": 1.4,
+      "chg_1d": -1.91,
+      "chg_5d": -4.89,
+      "accel": -0.46,
+      "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
     {
-      "name": "光感測與元件",
+      "name": "類比與功率 IC",
       "stocks": [
-        "2448",
-        "2494",
-        "3080",
-        "3627",
-        "3698",
-        "5220",
-        "5251",
-        "5267",
-        "5277",
-        "6419",
-        "6434",
-        "6477",
-        "6498",
-        "6560"
+        "3063",
+        "3526",
+        "5262",
+        "5274",
+        "5299",
+        "5487",
+        "6103",
+        "6138",
+        "6146",
+        "6202",
+        "6233",
+        "6411",
+        "6451",
+        "6568",
+        "8021",
+        "8081",
+        "8162"
       ],
-      "net_1d_yi": 0.06,
-      "net_5d_yi": -0.26,
-      "net_20d_yi": -0.27,
-      "avg_abs_daily_20d": 0.21,
-      "chg_1d": -0.13,
-      "chg_5d": 12.12,
-      "accel": -0.04,
-      "category": "gray",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "電池關鍵材料",
-      "stocks": [
-        "1537",
-        "3191",
-        "6495",
-        "6555",
-        "6883",
-        "6990",
-        "7758"
-      ],
-      "net_1d_yi": -0.1,
-      "net_5d_yi": -0.38,
-      "net_20d_yi": -0.29,
-      "avg_abs_daily_20d": 0.04,
-      "chg_1d": 0,
-      "chg_5d": 0,
-      "accel": -0.06,
-      "category": "gray",
+      "net_1d_yi": -18.71,
+      "net_5d_yi": -4.29,
+      "net_20d_yi": 29.42,
+      "avg_abs_daily_20d": 7.79,
+      "chg_1d": -2.33,
+      "chg_5d": -3.55,
+      "accel": -2.33,
+      "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
@@ -1118,140 +1193,13 @@
         "6786",
         "7856"
       ],
-      "net_1d_yi": -0.17,
-      "net_5d_yi": -0.4,
-      "net_20d_yi": -20.41,
-      "avg_abs_daily_20d": 3,
-      "chg_1d": -3.03,
-      "chg_5d": -1.54,
-      "accel": 0.94,
-      "category": "gray",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "電阻與被動保護",
-      "stocks": [
-        "1781",
-        "2342",
-        "3042",
-        "3631",
-        "5291",
-        "6862",
-        "6913",
-        "6940"
-      ],
-      "net_1d_yi": -14.21,
-      "net_5d_yi": -1.07,
-      "net_20d_yi": 7.2,
-      "avg_abs_daily_20d": 3.52,
-      "chg_1d": -3.23,
-      "chg_5d": -0.35,
-      "accel": -0.57,
-      "category": "red",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "面板產業",
-      "stocks": [
-        "2384",
-        "2406",
-        "2409",
-        "2475",
-        "2499",
-        "3009",
-        "3383",
-        "3481",
-        "3504",
-        "3630",
-        "4942",
-        "5245",
-        "5371",
-        "6116",
-        "6176",
-        "6225",
-        "6289",
-        "6682",
-        "8069"
-      ],
-      "net_1d_yi": -19.34,
-      "net_5d_yi": -2.93,
-      "net_20d_yi": -35.87,
-      "avg_abs_daily_20d": 15.36,
-      "chg_1d": -2.03,
-      "chg_5d": 4.41,
-      "accel": 1.21,
-      "category": "red",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "電容器",
-      "stocks": [
-        "2472",
-        "3089",
-        "3465",
-        "6204",
-        "6276"
-      ],
-      "net_1d_yi": 0.32,
-      "net_5d_yi": -3.66,
-      "net_20d_yi": -5.04,
-      "avg_abs_daily_20d": 1.4,
-      "chg_1d": -5.19,
-      "chg_5d": -8.6,
-      "accel": -0.48,
-      "category": "red",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "國防軍工",
-      "stocks": [
-        "1597",
-        "2206",
-        "2634",
-        "2645",
-        "3491",
-        "6753",
-        "8033"
-      ],
-      "net_1d_yi": 7.94,
-      "net_5d_yi": -4.65,
-      "net_20d_yi": -26.13,
-      "avg_abs_daily_20d": 5.08,
-      "chg_1d": -0.88,
-      "chg_5d": 3.87,
-      "accel": 0.38,
-      "category": "red",
-      "is_bottom_fishing": true,
-      "bottom_score": 6.99
-    },
-    {
-      "name": "連接器 工業消費",
-      "stocks": [
-        "5228",
-        "5254",
-        "5383",
-        "6124",
-        "6133",
-        "6192",
-        "6279",
-        "6292",
-        "6418",
-        "6422",
-        "6432",
-        "6573",
-        "6584"
-      ],
-      "net_1d_yi": 0,
-      "net_5d_yi": -5.01,
-      "net_20d_yi": -0.56,
-      "avg_abs_daily_20d": 1.01,
-      "chg_1d": -1.26,
-      "chg_5d": -2.77,
-      "accel": -0.97,
+      "net_1d_yi": -8.96,
+      "net_5d_yi": -4.33,
+      "net_20d_yi": -22.98,
+      "avg_abs_daily_20d": 3.56,
+      "chg_1d": -2.85,
+      "chg_5d": -1.28,
+      "accel": 0.28,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1280,6 +1228,56 @@
       "bottom_score": 0
     },
     {
+      "name": "連接器 工業消費",
+      "stocks": [
+        "5228",
+        "5254",
+        "5383",
+        "6124",
+        "6133",
+        "6192",
+        "6279",
+        "6292",
+        "6418",
+        "6422",
+        "6432",
+        "6573",
+        "6584"
+      ],
+      "net_1d_yi": 0.82,
+      "net_5d_yi": -5.16,
+      "net_20d_yi": -1.42,
+      "avg_abs_daily_20d": 1.09,
+      "chg_1d": -1.09,
+      "chg_5d": -1.22,
+      "accel": -0.96,
+      "category": "red",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "國防軍工",
+      "stocks": [
+        "1597",
+        "2206",
+        "2634",
+        "2645",
+        "3491",
+        "6753",
+        "8033"
+      ],
+      "net_1d_yi": 6.33,
+      "net_5d_yi": -5.94,
+      "net_20d_yi": -34.77,
+      "avg_abs_daily_20d": 4.71,
+      "chg_1d": -1.61,
+      "chg_5d": 2.56,
+      "accel": 0.55,
+      "category": "red",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
       "name": "高速交換器與無線網路",
       "stocks": [
         "2332",
@@ -1300,13 +1298,13 @@
         "6530",
         "8071"
       ],
-      "net_1d_yi": -2.41,
-      "net_5d_yi": -7.72,
-      "net_20d_yi": -17.42,
-      "avg_abs_daily_20d": 1.72,
-      "chg_1d": -2.84,
-      "chg_5d": -1.43,
-      "accel": -0.67,
+      "net_1d_yi": -2.86,
+      "net_5d_yi": -7.25,
+      "net_20d_yi": -17.88,
+      "avg_abs_daily_20d": 1.75,
+      "chg_1d": -2.72,
+      "chg_5d": -3.69,
+      "accel": -0.56,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1355,128 +1353,47 @@
         "8028",
         "8199"
       ],
-      "net_1d_yi": -6.76,
-      "net_5d_yi": -10.93,
-      "net_20d_yi": -0.85,
-      "avg_abs_daily_20d": 4.19,
-      "chg_1d": -4.11,
-      "chg_5d": -4.4,
-      "accel": -2.14,
+      "net_1d_yi": -5.59,
+      "net_5d_yi": -8.93,
+      "net_20d_yi": -0.65,
+      "avg_abs_daily_20d": 4.09,
+      "chg_1d": -2.77,
+      "chg_5d": -2.72,
+      "accel": -1.75,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
     {
-      "name": "類比與功率 IC",
+      "name": "面板產業",
       "stocks": [
-        "3063",
-        "3526",
-        "5262",
-        "5274",
-        "5299",
-        "5487",
-        "6103",
-        "6138",
-        "6146",
-        "6202",
-        "6233",
-        "6411",
-        "6451",
-        "6568",
-        "8021",
-        "8081",
-        "8162"
+        "2384",
+        "2406",
+        "2409",
+        "2475",
+        "2499",
+        "3009",
+        "3383",
+        "3481",
+        "3504",
+        "3630",
+        "4942",
+        "5245",
+        "5371",
+        "6116",
+        "6176",
+        "6225",
+        "6289",
+        "6682",
+        "8069"
       ],
-      "net_1d_yi": -19.86,
-      "net_5d_yi": -11.42,
-      "net_20d_yi": 8.27,
-      "avg_abs_daily_20d": 7.96,
-      "chg_1d": -5.17,
-      "chg_5d": -5.77,
-      "accel": -2.7,
-      "category": "red",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "Edge AI AIoT",
-      "stocks": [
-        "3227",
-        "4925",
-        "4980",
-        "6414",
-        "6579",
-        "7455",
-        "8234"
-      ],
-      "net_1d_yi": -5.7,
-      "net_5d_yi": -16.94,
-      "net_20d_yi": 11.1,
-      "avg_abs_daily_20d": 3.3,
-      "chg_1d": -3.85,
-      "chg_5d": -10.06,
-      "accel": -3.94,
-      "category": "red",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "電商零售",
-      "stocks": [
-        "2722",
-        "2723",
-        "2727",
-        "2912",
-        "2929",
-        "3085",
-        "5903",
-        "5904",
-        "6741",
-        "8044",
-        "8443",
-        "8454",
-        "8472",
-        "8477"
-      ],
-      "net_1d_yi": 0.22,
-      "net_5d_yi": -17.45,
-      "net_20d_yi": -7.39,
-      "avg_abs_daily_20d": 3.47,
-      "chg_1d": -0.57,
-      "chg_5d": -1.25,
-      "accel": -3.12,
-      "category": "red",
-      "is_bottom_fishing": false,
-      "bottom_score": 0
-    },
-    {
-      "name": "IC 通路",
-      "stocks": [
-        "2347",
-        "2403",
-        "2455",
-        "3036",
-        "3047",
-        "3315",
-        "3444",
-        "3528",
-        "3702",
-        "3709",
-        "6125",
-        "6145",
-        "6154",
-        "6189",
-        "8067",
-        "8068",
-        "8070"
-      ],
-      "net_1d_yi": -4.24,
-      "net_5d_yi": -20.14,
-      "net_20d_yi": -27.73,
-      "avg_abs_daily_20d": 6.79,
-      "chg_1d": -0.5,
-      "chg_5d": -2.21,
-      "accel": -2.64,
+      "net_1d_yi": -25.64,
+      "net_5d_yi": -14.71,
+      "net_20d_yi": -50.09,
+      "avg_abs_daily_20d": 15.84,
+      "chg_1d": -1.92,
+      "chg_5d": 1.85,
+      "accel": -0.44,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1502,36 +1419,117 @@
         "8131",
         "8215"
       ],
-      "net_1d_yi": 3.74,
-      "net_5d_yi": -23.02,
-      "net_20d_yi": -35.71,
-      "avg_abs_daily_20d": 4.61,
-      "chg_1d": -1.57,
-      "chg_5d": -4.25,
-      "accel": -2.82,
+      "net_1d_yi": 11.38,
+      "net_5d_yi": -17.7,
+      "net_20d_yi": -29.66,
+      "avg_abs_daily_20d": 4.87,
+      "chg_1d": -1.07,
+      "chg_5d": -3.35,
+      "accel": -2.06,
+      "category": "red",
+      "is_bottom_fishing": true,
+      "bottom_score": 12.18
+    },
+    {
+      "name": "Edge AI AIoT",
+      "stocks": [
+        "3227",
+        "4925",
+        "4980",
+        "6414",
+        "6579",
+        "7455",
+        "8234"
+      ],
+      "net_1d_yi": -5.92,
+      "net_5d_yi": -18.04,
+      "net_20d_yi": 10.64,
+      "avg_abs_daily_20d": 3.27,
+      "chg_1d": -2.14,
+      "chg_5d": -6.52,
+      "accel": -4.14,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
     {
-      "name": "晶圓廠設備",
+      "name": "IC 通路",
       "stocks": [
-        "3413",
-        "3563",
-        "4749",
-        "6139",
-        "6191",
-        "6196",
-        "6223",
-        "8027"
+        "2347",
+        "2403",
+        "2455",
+        "3036",
+        "3047",
+        "3315",
+        "3444",
+        "3528",
+        "3702",
+        "3709",
+        "6125",
+        "6145",
+        "6154",
+        "6189",
+        "8067",
+        "8068",
+        "8070"
       ],
-      "net_1d_yi": -5.4,
-      "net_5d_yi": -40.29,
-      "net_20d_yi": -80.29,
-      "avg_abs_daily_20d": 7.24,
-      "chg_1d": -1.86,
-      "chg_5d": -2.69,
-      "accel": -4.04,
+      "net_1d_yi": -4.43,
+      "net_5d_yi": -20.59,
+      "net_20d_yi": -28.34,
+      "avg_abs_daily_20d": 6.8,
+      "chg_1d": -1.24,
+      "chg_5d": -2.84,
+      "accel": -2.7,
+      "category": "red",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "矽晶圓",
+      "stocks": [
+        "3016",
+        "3105",
+        "3532",
+        "5483",
+        "6182",
+        "6488"
+      ],
+      "net_1d_yi": -14.84,
+      "net_5d_yi": -31.33,
+      "net_20d_yi": -234.25,
+      "avg_abs_daily_20d": 18.32,
+      "chg_1d": -1.15,
+      "chg_5d": 7.16,
+      "accel": 5.45,
+      "category": "red",
+      "is_bottom_fishing": false,
+      "bottom_score": 0
+    },
+    {
+      "name": "電商零售",
+      "stocks": [
+        "2722",
+        "2723",
+        "2727",
+        "2912",
+        "2929",
+        "3085",
+        "5903",
+        "5904",
+        "6741",
+        "8044",
+        "8443",
+        "8454",
+        "8472",
+        "8477"
+      ],
+      "net_1d_yi": 0.16,
+      "net_5d_yi": -38.51,
+      "net_20d_yi": -28.86,
+      "avg_abs_daily_20d": 4.5,
+      "chg_1d": -0.22,
+      "chg_5d": -1.61,
+      "accel": -6.26,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1553,34 +1551,36 @@
         "6538",
         "8038"
       ],
-      "net_1d_yi": -7.76,
-      "net_5d_yi": -55.61,
-      "net_20d_yi": -229.67,
-      "avg_abs_daily_20d": 17.09,
-      "chg_1d": -0.63,
-      "chg_5d": 0.46,
-      "accel": 0.36,
+      "net_1d_yi": -1.68,
+      "net_5d_yi": -59.06,
+      "net_20d_yi": -240.01,
+      "avg_abs_daily_20d": 16.92,
+      "chg_1d": -1.18,
+      "chg_5d": 0.26,
+      "accel": 0.19,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
     },
     {
-      "name": "矽晶圓",
+      "name": "晶圓廠設備",
       "stocks": [
-        "3016",
-        "3105",
-        "3532",
-        "5483",
-        "6182",
-        "6488"
+        "3413",
+        "3563",
+        "4749",
+        "6139",
+        "6191",
+        "6196",
+        "6223",
+        "8027"
       ],
-      "net_1d_yi": -2.65,
-      "net_5d_yi": -56.4,
-      "net_20d_yi": -263.85,
-      "avg_abs_daily_20d": 16.12,
-      "chg_1d": -1.04,
-      "chg_5d": 9.62,
-      "accel": 1.91,
+      "net_1d_yi": -32.27,
+      "net_5d_yi": -61.76,
+      "net_20d_yi": -115.43,
+      "avg_abs_daily_20d": 7.87,
+      "chg_1d": -3.43,
+      "chg_5d": -6.28,
+      "accel": -6.58,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1609,13 +1609,13 @@
         "6435",
         "8150"
       ],
-      "net_1d_yi": -43.06,
-      "net_5d_yi": -87.96,
-      "net_20d_yi": -402.23,
-      "avg_abs_daily_20d": 31.61,
-      "chg_1d": -2.25,
-      "chg_5d": -3.73,
-      "accel": 2.52,
+      "net_1d_yi": -50.08,
+      "net_5d_yi": -96.59,
+      "net_20d_yi": -423.4,
+      "avg_abs_daily_20d": 32.66,
+      "chg_1d": -2.16,
+      "chg_5d": -2.91,
+      "accel": 1.85,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1631,13 +1631,13 @@
         "6175",
         "6285"
       ],
-      "net_1d_yi": -8.19,
-      "net_5d_yi": -99.98,
-      "net_20d_yi": -103.89,
-      "avg_abs_daily_20d": 8.03,
-      "chg_1d": -3.03,
-      "chg_5d": -11.84,
-      "accel": -14.8,
+      "net_1d_yi": -8.16,
+      "net_5d_yi": -99.61,
+      "net_20d_yi": -104.03,
+      "avg_abs_daily_20d": 7.99,
+      "chg_1d": -3.08,
+      "chg_5d": -10.06,
+      "accel": -14.72,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1653,13 +1653,13 @@
         "8261",
         "8299"
       ],
-      "net_1d_yi": -20.75,
-      "net_5d_yi": -119.99,
-      "net_20d_yi": -64.29,
-      "avg_abs_daily_20d": 25.34,
-      "chg_1d": -5.4,
-      "chg_5d": -5.74,
-      "accel": -20.78,
+      "net_1d_yi": -17.88,
+      "net_5d_yi": -101.84,
+      "net_20d_yi": -16.27,
+      "avg_abs_daily_20d": 24.46,
+      "chg_1d": -5.41,
+      "chg_5d": -5.41,
+      "accel": -19.56,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1689,13 +1689,13 @@
         "6266",
         "6407"
       ],
-      "net_1d_yi": -28.75,
-      "net_5d_yi": -319.65,
-      "net_20d_yi": -634.29,
-      "avg_abs_daily_20d": 37.68,
-      "chg_1d": -3.25,
-      "chg_5d": -3.16,
-      "accel": -32.21,
+      "net_1d_yi": -31.72,
+      "net_5d_yi": -322.88,
+      "net_20d_yi": -636.51,
+      "avg_abs_daily_20d": 37.79,
+      "chg_1d": -3.05,
+      "chg_5d": -2.91,
+      "accel": -32.75,
       "category": "red",
       "is_bottom_fishing": false,
       "bottom_score": 0
@@ -1888,11 +1888,11 @@
     },
     "1580": {
       "name": "新麥",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 107.5,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "1583": {
       "name": "程泰",
@@ -2104,11 +2104,11 @@
     },
     "1781": {
       "name": "合世",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 11,
+      "chg_1d": 0.46,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "1802": {
       "name": "台玻",
@@ -3048,19 +3048,19 @@
     },
     "2640": {
       "name": "大車隊",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 154,
+      "chg_1d": -0.65,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "2641": {
       "name": "正德",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 17.9,
+      "chg_1d": 1.99,
+      "net_1d_yi": -0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "2642": {
       "name": "宅配通",
@@ -3072,11 +3072,11 @@
     },
     "2643": {
       "name": "捷迅",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 61.9,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "2645": {
       "name": "長榮航太",
@@ -3496,11 +3496,11 @@
     },
     "3081": {
       "name": "聯亞",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 2925,
+      "chg_1d": 4.84,
+      "net_1d_yi": 9.06,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3085": {
       "name": "新零售",
@@ -3512,11 +3512,11 @@
     },
     "3088": {
       "name": "艾訊",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 127,
+      "chg_1d": -0.39,
+      "net_1d_yi": -0.32,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3089": {
       "name": "億杰",
@@ -3536,19 +3536,19 @@
     },
     "3105": {
       "name": "穩懋",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 374.5,
+      "chg_1d": -5.9,
+      "net_1d_yi": -14.49,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3128": {
       "name": "昇銳",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 21.75,
+      "chg_1d": -1.58,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3130": {
       "name": "一零四",
@@ -3560,11 +3560,11 @@
     },
     "3131": {
       "name": "弘塑",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 2465,
+      "chg_1d": -1.4,
+      "net_1d_yi": -3.34,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3138": {
       "name": "耀登",
@@ -3600,11 +3600,11 @@
     },
     "3162": {
       "name": "精確",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 61.9,
+      "chg_1d": -0.64,
+      "net_1d_yi": 0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3167": {
       "name": "大量",
@@ -3624,19 +3624,19 @@
     },
     "3191": {
       "name": "雲嘉南",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 18.05,
+      "chg_1d": -1.63,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3211": {
       "name": "順達",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 382.5,
+      "chg_1d": -2.42,
+      "net_1d_yi": -0.65,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3214": {
       "name": "元砷",
@@ -3647,20 +3647,20 @@
       "quoteStatus": "missing"
     },
     "3221": {
-      "name": "3221",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "name": "台嘉碩",
+      "price": 46.5,
+      "chg_1d": -4.81,
+      "net_1d_yi": -0.14,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3227": {
       "name": "原相",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 196.5,
+      "chg_1d": -1.01,
+      "net_1d_yi": -0.19,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3231": {
       "name": "緯創",
@@ -3672,11 +3672,11 @@
     },
     "3234": {
       "name": "光環",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 146,
+      "chg_1d": -2.67,
+      "net_1d_yi": 0.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3257": {
       "name": "虹冠電",
@@ -3688,59 +3688,59 @@
     },
     "3259": {
       "name": "鑫創",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 12.6,
+      "chg_1d": -9.68,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3260": {
       "name": "威剛",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 387,
+      "chg_1d": -3.25,
+      "net_1d_yi": -15.31,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3264": {
       "name": "欣銓",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 210.5,
+      "chg_1d": -3.88,
+      "net_1d_yi": -1.3,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3265": {
       "name": "台星科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 171,
+      "chg_1d": 0.29,
+      "net_1d_yi": 0.3,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3276": {
       "name": "宇環",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 14.35,
+      "chg_1d": -2.05,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3289": {
       "name": "宜特",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 134,
+      "chg_1d": -3.94,
+      "net_1d_yi": -0.2,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3294": {
       "name": "英濟",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 30.5,
+      "chg_1d": -1.77,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3296": {
       "name": "勝德",
@@ -3752,11 +3752,11 @@
     },
     "3303": {
       "name": "岱稜",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 52.5,
+      "chg_1d": 0.38,
+      "net_1d_yi": 0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3315": {
       "name": "宣昶",
@@ -3768,27 +3768,27 @@
     },
     "3317": {
       "name": "尼克森",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 66.9,
+      "chg_1d": -3.04,
+      "net_1d_yi": -0.09,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3322": {
       "name": "建舜電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 11.15,
+      "chg_1d": -2.62,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3324": {
       "name": "雙鴻",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 978,
+      "chg_1d": -2.69,
+      "net_1d_yi": 1.64,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3338": {
       "name": "泰碩",
@@ -3816,19 +3816,19 @@
     },
     "3372": {
       "name": "典範",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 15.05,
+      "chg_1d": -2.27,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3374": {
       "name": "精材",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 306.5,
+      "chg_1d": 4.79,
+      "net_1d_yi": 7.65,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3380": {
       "name": "明泰",
@@ -3848,11 +3848,11 @@
     },
     "3390": {
       "name": "旭軟",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 21.65,
+      "chg_1d": -1.37,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3406": {
       "name": "玉晶光",
@@ -3880,11 +3880,11 @@
     },
     "3444": {
       "name": "利機",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 75.4,
+      "chg_1d": -4.31,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3447": {
       "name": "展達",
@@ -3904,27 +3904,27 @@
     },
     "3455": {
       "name": "由田",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 258,
+      "chg_1d": 1.98,
+      "net_1d_yi": 1.18,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3465": {
       "name": "進泰電子",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 29.4,
+      "chg_1d": 0.17,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3467": {
       "name": "台灣精材",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 45.45,
+      "chg_1d": -0.87,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3474": {
       "name": "華亞科",
@@ -3944,19 +3944,19 @@
     },
     "3484": {
       "name": "崧騰",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 51.1,
+      "chg_1d": -0.78,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3491": {
       "name": "昇達科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 1250,
+      "chg_1d": -6.02,
+      "net_1d_yi": -1.61,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3504": {
       "name": "揚明光",
@@ -3984,11 +3984,11 @@
     },
     "3526": {
       "name": "凡甲",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 281,
+      "chg_1d": -1.58,
+      "net_1d_yi": -0.49,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3528": {
       "name": "安馳",
@@ -4000,11 +4000,11 @@
     },
     "3529": {
       "name": "力旺",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 2340,
+      "chg_1d": -2.09,
+      "net_1d_yi": -1.35,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3532": {
       "name": "台勝科",
@@ -4032,11 +4032,11 @@
     },
     "3540": {
       "name": "曜越",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 20.35,
+      "chg_1d": -0.49,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3561": {
       "name": "昇陽光電",
@@ -4072,11 +4072,11 @@
     },
     "3587": {
       "name": "閎康",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 242,
+      "chg_1d": -2.62,
+      "net_1d_yi": -0.17,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3593": {
       "name": "力銘",
@@ -4088,11 +4088,11 @@
     },
     "3594": {
       "name": "磐儀",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 50.5,
+      "chg_1d": -4.36,
+      "net_1d_yi": -0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3596": {
       "name": "智易",
@@ -4112,27 +4112,27 @@
     },
     "3611": {
       "name": "鼎翰",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 186.5,
+      "chg_1d": -0.8,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3615": {
       "name": "安可",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 36.05,
+      "chg_1d": -4.25,
+      "net_1d_yi": 0.06,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3625": {
       "name": "西勝",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 13.95,
+      "chg_1d": -9.71,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3627": {
       "name": "華信科",
@@ -4144,43 +4144,43 @@
     },
     "3628": {
       "name": "盈正",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 70.4,
+      "chg_1d": -2.09,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3630": {
       "name": "新鉅科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 25.5,
+      "chg_1d": 0.2,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3631": {
       "name": "晟楠",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 40.3,
+      "chg_1d": 1,
+      "net_1d_yi": -0.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3632": {
       "name": "研勤",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 7.21,
+      "chg_1d": -1.23,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3646": {
       "name": "艾恩特",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 23,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3653": {
       "name": "健策",
@@ -4208,11 +4208,11 @@
     },
     "3680": {
       "name": "家登",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 473.5,
+      "chg_1d": 0.53,
+      "net_1d_yi": 1.39,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3682": {
       "name": "亞太電",
@@ -4224,27 +4224,27 @@
     },
     "3687": {
       "name": "歐買尬",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 64.5,
+      "chg_1d": -0.92,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3691": {
       "name": "碩禾",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 101.5,
+      "chg_1d": -3.33,
+      "net_1d_yi": 0.16,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3693": {
       "name": "營邦",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 523,
+      "chg_1d": -0.38,
+      "net_1d_yi": -0.45,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3698": {
       "name": "隆達",
@@ -4280,11 +4280,11 @@
     },
     "3707": {
       "name": "漢磊",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 62.9,
+      "chg_1d": -3.53,
+      "net_1d_yi": -0.08,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3708": {
       "name": "上緯投控",
@@ -4296,11 +4296,11 @@
     },
     "3709": {
       "name": "鑫聯大投控",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 68.6,
+      "chg_1d": -2.83,
+      "net_1d_yi": -0.11,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "3711": {
       "name": "日月光投控",
@@ -4344,19 +4344,19 @@
     },
     "4543": {
       "name": "萬在",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 31.85,
+      "chg_1d": 0.31,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4563": {
       "name": "百德",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 38.85,
+      "chg_1d": -2.26,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4578": {
       "name": "總格精密",
@@ -4368,11 +4368,11 @@
     },
     "4580": {
       "name": "捷流閥業",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 78.7,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4581": {
       "name": "光隆精密-KY",
@@ -4400,11 +4400,11 @@
     },
     "4721": {
       "name": "美琪瑪",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 74,
+      "chg_1d": -3.01,
+      "net_1d_yi": -0.38,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4722": {
       "name": "國精化",
@@ -4416,11 +4416,11 @@
     },
     "4749": {
       "name": "新應材",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 769,
+      "chg_1d": -2.16,
+      "net_1d_yi": -0.54,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4763": {
       "name": "材料*-KY",
@@ -4456,11 +4456,11 @@
     },
     "4931": {
       "name": "新盛力",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 259.5,
+      "chg_1d": -3.71,
+      "net_1d_yi": 0.59,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4938": {
       "name": "和碩",
@@ -4496,19 +4496,19 @@
     },
     "4951": {
       "name": "精拓科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 76.9,
+      "chg_1d": -1.91,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4953": {
-      "name": "緯軟",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "name": "緯致",
+      "price": 122.5,
+      "chg_1d": -2,
+      "net_1d_yi": -0.11,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4958": {
       "name": "臻鼎-KY",
@@ -4536,11 +4536,11 @@
     },
     "4966": {
       "name": "譜瑞-KY",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 565,
+      "chg_1d": 0,
+      "net_1d_yi": 0.23,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4967": {
       "name": "十銓",
@@ -4560,19 +4560,19 @@
     },
     "4971": {
       "name": "IET-KY",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 556,
+      "chg_1d": 5.3,
+      "net_1d_yi": -2.52,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4973": {
       "name": "廣穎",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 148.5,
+      "chg_1d": -3.26,
+      "net_1d_yi": -0.24,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4977": {
       "name": "眾達-KY",
@@ -4584,11 +4584,11 @@
     },
     "4979": {
       "name": "華星光",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 528,
+      "chg_1d": -3.12,
+      "net_1d_yi": -1.19,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4980": {
       "name": "佐臻",
@@ -4608,11 +4608,11 @@
     },
     "4995": {
       "name": "晶達",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 49.1,
+      "chg_1d": 0.2,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "4999": {
       "name": "鑫禾",
@@ -4624,59 +4624,59 @@
     },
     "5201": {
       "name": "凱衛",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 25.55,
+      "chg_1d": -0.58,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5202": {
       "name": "力新",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 11.9,
+      "chg_1d": -0.42,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5205": {
       "name": "中茂",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 20.65,
+      "chg_1d": -0.96,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5210": {
       "name": "寶碩",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 29.05,
+      "chg_1d": -0.17,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5211": {
       "name": "蒙恬",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 19.1,
+      "chg_1d": -1.29,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5212": {
-      "name": "凌笛",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "name": "凌網",
+      "price": 46.25,
+      "chg_1d": -1.39,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5220": {
       "name": "萬達光電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 19.85,
+      "chg_1d": -1.24,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5222": {
       "name": "全訊",
@@ -4688,27 +4688,27 @@
     },
     "5227": {
       "name": "立凱-KY",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 33,
+      "chg_1d": -6.91,
+      "net_1d_yi": -0.18,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5228": {
       "name": "鈺鎧",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 42.2,
+      "chg_1d": -3.65,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5230": {
       "name": "雷笛克光學",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 17.55,
+      "chg_1d": -0.85,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5234": {
       "name": "達興材料",
@@ -4752,11 +4752,11 @@
     },
     "5245": {
       "name": "智晶",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 23.25,
+      "chg_1d": -0.64,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5248": {
       "name": "景傳",
@@ -4768,11 +4768,11 @@
     },
     "5251": {
       "name": "天鉞電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 24.85,
+      "chg_1d": -4.24,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5254": {
       "name": "欣訊科技",
@@ -4816,19 +4816,19 @@
     },
     "5272": {
       "name": "笙科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 17.25,
+      "chg_1d": -2.54,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5274": {
       "name": "信驊",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 17055,
+      "chg_1d": 0.21,
+      "net_1d_yi": 2.06,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5277": {
       "name": "葳天",
@@ -4840,11 +4840,11 @@
     },
     "5278": {
       "name": "尚凡*",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 24.35,
+      "chg_1d": -0.41,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5280": {
       "name": "F-敦泰",
@@ -4880,27 +4880,27 @@
     },
     "5287": {
       "name": "數字",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 153.5,
+      "chg_1d": -0.32,
+      "net_1d_yi": -0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5289": {
       "name": "宜鼎",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 1460,
+      "chg_1d": -4.58,
+      "net_1d_yi": -5.13,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5291": {
       "name": "邑昇",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 55.9,
+      "chg_1d": 1.08,
+      "net_1d_yi": -0.17,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5297": {
       "name": "廣化",
@@ -4912,19 +4912,19 @@
     },
     "5299": {
       "name": "杰力",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 99.9,
+      "chg_1d": -0.6,
+      "net_1d_yi": -0.06,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5302": {
       "name": "太欣",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 10.55,
+      "chg_1d": -0.47,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5306": {
       "name": "桂盟",
@@ -4936,27 +4936,27 @@
     },
     "5309": {
       "name": "系統電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 52.2,
+      "chg_1d": -3.69,
+      "net_1d_yi": -0.16,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5321": {
       "name": "美而快",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 72.9,
+      "chg_1d": 7.21,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5328": {
       "name": "華容",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 62.5,
+      "chg_1d": -3.99,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5346": {
       "name": "力晶積成",
@@ -4968,11 +4968,11 @@
     },
     "5347": {
       "name": "世界",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 155,
+      "chg_1d": -4.32,
+      "net_1d_yi": -3.51,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5349": {
       "name": "先豐",
@@ -4984,19 +4984,19 @@
     },
     "5351": {
       "name": "鈺創",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 122,
+      "chg_1d": -9.96,
+      "net_1d_yi": 0.69,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5371": {
       "name": "中光電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 86.3,
+      "chg_1d": -3.36,
+      "net_1d_yi": -0.26,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5383": {
       "name": "金利",
@@ -5016,27 +5016,27 @@
     },
     "5392": {
       "name": "能率",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 45.85,
+      "chg_1d": -1.4,
+      "net_1d_yi": 0.08,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5425": {
       "name": "台半",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 91.5,
+      "chg_1d": 1.78,
+      "net_1d_yi": 1.17,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5432": {
       "name": "新門",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 153.5,
+      "chg_1d": 2.68,
+      "net_1d_yi": -0.09,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5434": {
       "name": "崇越",
@@ -5048,27 +5048,27 @@
     },
     "5439": {
       "name": "高技",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 242,
+      "chg_1d": -2.22,
+      "net_1d_yi": 0.29,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5443": {
       "name": "均豪",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 106.5,
+      "chg_1d": 0,
+      "net_1d_yi": 0.09,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5457": {
       "name": "宣德",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 26.8,
+      "chg_1d": -2.01,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5469": {
       "name": "瀚宇博",
@@ -5088,19 +5088,19 @@
     },
     "5478": {
       "name": "智冠",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 98.8,
+      "chg_1d": -0.2,
+      "net_1d_yi": -0.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5483": {
       "name": "中美晶",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 185,
+      "chg_1d": -0.8,
+      "net_1d_yi": -0.43,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5484": {
       "name": "慧友",
@@ -5112,43 +5112,43 @@
     },
     "5487": {
       "name": "通泰",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 29.2,
+      "chg_1d": -0.51,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5488": {
       "name": "松普",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 12.45,
+      "chg_1d": -1.19,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5489": {
       "name": "彩富",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 44.4,
+      "chg_1d": 2.78,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5493": {
       "name": "三聯",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 78.7,
+      "chg_1d": -1.25,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5536": {
       "name": "聖暉*",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 889,
+      "chg_1d": -2.09,
+      "net_1d_yi": -2.96,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5601": {
       "name": "台聯櫃",
@@ -5160,11 +5160,11 @@
     },
     "5603": {
       "name": "陸海",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 14.35,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5607": {
       "name": "遠雄港",
@@ -5184,11 +5184,11 @@
     },
     "5609": {
       "name": "中菲行",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 77.4,
+      "chg_1d": -0.26,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5876": {
       "name": "上海商銀",
@@ -5208,19 +5208,19 @@
     },
     "5903": {
       "name": "全家",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 184.5,
+      "chg_1d": 0,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "5904": {
-      "name": "寶雅",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "name": "寶雅*",
+      "price": 78.7,
+      "chg_1d": 2.88,
+      "net_1d_yi": -0.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6103": {
       "name": "合邦",
@@ -5232,19 +5232,19 @@
     },
     "6104": {
       "name": "創惟",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 90.6,
+      "chg_1d": -2.37,
+      "net_1d_yi": -0.11,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6111": {
       "name": "光聚晶電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 36.45,
+      "chg_1d": -1.62,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6112": {
       "name": "邁達特",
@@ -5256,11 +5256,11 @@
     },
     "6114": {
       "name": "久威",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 26.1,
+      "chg_1d": -1.69,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6115": {
       "name": "鎰勝",
@@ -5296,43 +5296,43 @@
     },
     "6121": {
       "name": "新普",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 397.5,
+      "chg_1d": -2.81,
+      "net_1d_yi": -0.23,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6123": {
       "name": "上奇",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 42.7,
+      "chg_1d": -1.73,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6124": {
       "name": "業強",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 27,
+      "chg_1d": -0.18,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6125": {
       "name": "廣運",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 49.35,
+      "chg_1d": -2.66,
+      "net_1d_yi": -0.07,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6126": {
       "name": "信音",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 29.65,
+      "chg_1d": -1,
+      "net_1d_yi": -0.05,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6128": {
       "name": "上福",
@@ -5360,11 +5360,11 @@
     },
     "6134": {
       "name": "萬旭",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 27.9,
+      "chg_1d": -0.53,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6136": {
       "name": "富爾特",
@@ -5376,11 +5376,11 @@
     },
     "6138": {
       "name": "茂達",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 282.5,
+      "chg_1d": -2.92,
+      "net_1d_yi": -0.47,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6139": {
       "name": "亞翔",
@@ -5392,11 +5392,11 @@
     },
     "6140": {
       "name": "訊達",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 16.3,
+      "chg_1d": -1.21,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6141": {
       "name": "柏承",
@@ -5416,27 +5416,27 @@
     },
     "6146": {
       "name": "耕興",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 196,
+      "chg_1d": 2.08,
+      "net_1d_yi": 0.25,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6147": {
       "name": "頎邦",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 163.5,
+      "chg_1d": -2.97,
+      "net_1d_yi": -8.16,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6151": {
       "name": "晉倫",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 36.95,
+      "chg_1d": -2.76,
+      "net_1d_yi": -0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6152": {
       "name": "百一",
@@ -5456,11 +5456,11 @@
     },
     "6154": {
       "name": "順發",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 13.85,
+      "chg_1d": -0.36,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6155": {
       "name": "鈞寶",
@@ -5472,35 +5472,35 @@
     },
     "6156": {
       "name": "松上",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 21.1,
+      "chg_1d": -2.31,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6158": {
       "name": "禾昌",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 16.6,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6161": {
       "name": "捷波",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 50.2,
+      "chg_1d": -1.95,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6163": {
       "name": "華電網",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 43.4,
+      "chg_1d": -7.26,
+      "net_1d_yi": -0.5,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6165": {
       "name": "浪凡",
@@ -5512,27 +5512,27 @@
     },
     "6173": {
       "name": "信昌電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 194.5,
+      "chg_1d": -7.82,
+      "net_1d_yi": -2.82,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6174": {
       "name": "安碁",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 42.5,
+      "chg_1d": -5.76,
+      "net_1d_yi": -0.05,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6175": {
       "name": "立敦",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 74.8,
+      "chg_1d": -3.23,
+      "net_1d_yi": 0.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6176": {
       "name": "瑞儀",
@@ -5552,11 +5552,11 @@
     },
     "6182": {
       "name": "合晶",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 120,
+      "chg_1d": -2.04,
+      "net_1d_yi": -12.57,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6183": {
       "name": "關貿",
@@ -5576,11 +5576,11 @@
     },
     "6185": {
       "name": "幃翔",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 13.2,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6189": {
       "name": "豐藝",
@@ -5592,11 +5592,11 @@
     },
     "6190": {
       "name": "萬泰科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 65.5,
+      "chg_1d": -1.95,
+      "net_1d_yi": -0.13,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6191": {
       "name": "精成科",
@@ -5616,11 +5616,11 @@
     },
     "6194": {
       "name": "育富",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 29.65,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6196": {
       "name": "帆宣",
@@ -5656,11 +5656,11 @@
     },
     "6204": {
       "name": "艾華",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 78.6,
+      "chg_1d": -2.36,
+      "net_1d_yi": 0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6205": {
       "name": "詮欣",
@@ -5672,11 +5672,11 @@
     },
     "6207": {
       "name": "雷科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 102,
+      "chg_1d": -5.12,
+      "net_1d_yi": 0.76,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6209": {
       "name": "今國光",
@@ -5688,11 +5688,11 @@
     },
     "6210": {
       "name": "慶生",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 17.05,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6213": {
       "name": "聯茂",
@@ -5720,19 +5720,19 @@
     },
     "6217": {
       "name": "中探針",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 157,
+      "chg_1d": -8.19,
+      "net_1d_yi": -1.22,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6223": {
       "name": "旺矽",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 5270,
+      "chg_1d": -9.14,
+      "net_1d_yi": -26.37,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6224": {
       "name": "聚鼎",
@@ -5752,11 +5752,11 @@
     },
     "6229": {
       "name": "研通",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 24.35,
+      "chg_1d": -1.22,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6230": {
       "name": "尼得科超眾",
@@ -5768,35 +5768,35 @@
     },
     "6231": {
       "name": "系微",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 221,
+      "chg_1d": 0.45,
+      "net_1d_yi": -0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6233": {
       "name": "旺玖",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 21.2,
+      "chg_1d": -0.24,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6236": {
       "name": "中湛",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 14.95,
+      "chg_1d": -1.32,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6237": {
       "name": "驊訊",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 33.4,
+      "chg_1d": -2.05,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6239": {
       "name": "力成",
@@ -5816,11 +5816,11 @@
     },
     "6244": {
       "name": "茂迪",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 25.3,
+      "chg_1d": -5.24,
+      "net_1d_yi": -0.16,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6251": {
       "name": "定穎",
@@ -5848,27 +5848,27 @@
     },
     "6259": {
       "name": "百徽",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 30.4,
+      "chg_1d": -9.12,
+      "net_1d_yi": -0.06,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6261": {
       "name": "久元",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 76.7,
+      "chg_1d": -1.41,
+      "net_1d_yi": 0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6266": {
       "name": "泰詠",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 24.9,
+      "chg_1d": -0.8,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6269": {
       "name": "台郡",
@@ -5896,19 +5896,19 @@
     },
     "6274": {
       "name": "台燿",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 1545,
+      "chg_1d": -3.44,
+      "net_1d_yi": 8.48,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6276": {
       "name": "安鈦克",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 19.1,
+      "chg_1d": -0.26,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6277": {
       "name": "宏正",
@@ -5928,11 +5928,11 @@
     },
     "6279": {
       "name": "胡連",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 126.5,
+      "chg_1d": -1.17,
+      "net_1d_yi": 0.1,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6280": {
       "name": "崇貿",
@@ -5952,11 +5952,11 @@
     },
     "6284": {
       "name": "佳邦",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 75.9,
+      "chg_1d": -2.19,
+      "net_1d_yi": 0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6285": {
       "name": "啟碁",
@@ -5992,27 +5992,27 @@
     },
     "6290": {
       "name": "良維",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 209.5,
+      "chg_1d": -3.01,
+      "net_1d_yi": 0.23,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6291": {
       "name": "沛亨",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 374.5,
+      "chg_1d": -4.83,
+      "net_1d_yi": -0.29,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6292": {
       "name": "迅德",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 62.1,
+      "chg_1d": -1.58,
+      "net_1d_yi": 0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6403": {
       "name": "群登",
@@ -6048,11 +6048,11 @@
     },
     "6411": {
       "name": "晶焱",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 79.1,
+      "chg_1d": 0.13,
+      "net_1d_yi": -0.17,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6412": {
       "name": "群電",
@@ -6072,27 +6072,27 @@
     },
     "6417": {
       "name": "韋僑",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 110,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6418": {
       "name": "詠昇",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 32,
+      "chg_1d": -0.47,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6419": {
       "name": "京晨科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 163.5,
+      "chg_1d": -9.17,
+      "net_1d_yi": 0.09,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6422": {
       "name": "君耀-KY",
@@ -6136,11 +6136,11 @@
     },
     "6435": {
       "name": "大中",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 254,
+      "chg_1d": -0.97,
+      "net_1d_yi": 0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6443": {
       "name": "元晶",
@@ -6160,19 +6160,19 @@
     },
     "6462": {
       "name": "神盾",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 98.5,
+      "chg_1d": -1.2,
+      "net_1d_yi": 0.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6470": {
       "name": "宇智",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 41.25,
+      "chg_1d": -2.37,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6473": {
       "name": "美賣*",
@@ -6192,19 +6192,19 @@
     },
     "6485": {
       "name": "點序",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 60,
+      "chg_1d": -2.76,
+      "net_1d_yi": -0.05,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6488": {
       "name": "環球晶",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 1060,
+      "chg_1d": 3.92,
+      "net_1d_yi": 15.31,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6495": {
       "name": "納諾*-KY",
@@ -6216,11 +6216,11 @@
     },
     "6498": {
       "name": "久禾光",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 75.3,
+      "chg_1d": -3.34,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6505": {
       "name": "台塑化",
@@ -6232,19 +6232,19 @@
     },
     "6510": {
       "name": "精測",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 2765,
+      "chg_1d": -3.99,
+      "net_1d_yi": -3.68,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6512": {
       "name": "啟發電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 20.4,
+      "chg_1d": 0,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6514": {
       "name": "芮特-KY",
@@ -6264,27 +6264,27 @@
     },
     "6517": {
       "name": "保勝光學",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 68.1,
+      "chg_1d": 6.41,
+      "net_1d_yi": 0.45,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6530": {
       "name": "創威",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 80.8,
+      "chg_1d": -6.81,
+      "net_1d_yi": -0.22,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6532": {
       "name": "瑞耘",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 84.8,
+      "chg_1d": -4.18,
+      "net_1d_yi": -0.12,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6533": {
       "name": "晶心科",
@@ -6304,19 +6304,19 @@
     },
     "6538": {
       "name": "倉和",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 192,
+      "chg_1d": 0.79,
+      "net_1d_yi": 0.25,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6548": {
       "name": "長科*",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 72.4,
+      "chg_1d": -1.09,
+      "net_1d_yi": -0.23,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6555": {
       "name": "榮炭",
@@ -6328,11 +6328,11 @@
     },
     "6556": {
       "name": "勝品",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 58.2,
+      "chg_1d": -0.17,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6558": {
       "name": "興能高",
@@ -6352,11 +6352,11 @@
     },
     "6560": {
       "name": "欣普羅",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 31.05,
+      "chg_1d": 0.16,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6563": {
       "name": "映智",
@@ -6376,11 +6376,11 @@
     },
     "6568": {
       "name": "宏觀",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 128.5,
+      "chg_1d": -3.38,
+      "net_1d_yi": 0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6573": {
       "name": "虹揚-KY",
@@ -6408,35 +6408,35 @@
     },
     "6584": {
       "name": "南俊國際",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 602,
+      "chg_1d": 1.01,
+      "net_1d_yi": 0.7,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6588": {
       "name": "東典光電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 94.5,
+      "chg_1d": 3.96,
+      "net_1d_yi": 0.25,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6590": {
       "name": "普鴻",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 65.5,
+      "chg_1d": 0.77,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6603": {
       "name": "富強鑫",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 27.95,
+      "chg_1d": -6.68,
+      "net_1d_yi": -0.27,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6604": {
       "name": "儒億",
@@ -6456,27 +6456,27 @@
     },
     "6609": {
       "name": "瀧澤科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 38.9,
+      "chg_1d": -0.38,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6624": {
       "name": "萬年清",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 40.85,
+      "chg_1d": -2.27,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6640": {
       "name": "均華",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 1065,
+      "chg_1d": -0.47,
+      "net_1d_yi": -0.19,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6641": {
       "name": "基士德-KY",
@@ -6488,11 +6488,11 @@
     },
     "6643": {
       "name": "M31",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 410.5,
+      "chg_1d": -4.98,
+      "net_1d_yi": -0.45,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6669": {
       "name": "緯穎",
@@ -6528,19 +6528,19 @@
     },
     "6690": {
       "name": "安碁資訊",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 162.5,
+      "chg_1d": -1.22,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6692": {
       "name": "進能服",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 24.45,
+      "chg_1d": -0.2,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6698": {
       "name": "旭暉應材",
@@ -6560,19 +6560,19 @@
     },
     "6727": {
       "name": "亞泰金屬",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 441.5,
+      "chg_1d": -7.05,
+      "net_1d_yi": -1.15,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6741": {
       "name": "91APP*-KY",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 54.8,
+      "chg_1d": 0.18,
+      "net_1d_yi": -0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6753": {
       "name": "龍德造船",
@@ -6584,11 +6584,11 @@
     },
     "6763": {
       "name": "綠界科技*",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 41.85,
+      "chg_1d": 0,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6770": {
       "name": "力積電",
@@ -6616,11 +6616,11 @@
     },
     "6788": {
       "name": "華景電",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 352.5,
+      "chg_1d": -3.16,
+      "net_1d_yi": 0.14,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6789": {
       "name": "采鈺",
@@ -6640,11 +6640,11 @@
     },
     "6803": {
       "name": "崑鼎",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 268.5,
+      "chg_1d": -0.19,
+      "net_1d_yi": -0.03,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6806": {
       "name": "森崴能源",
@@ -6656,11 +6656,11 @@
     },
     "6811": {
       "name": "宏碁資訊",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 222.5,
+      "chg_1d": -1.98,
+      "net_1d_yi": -0.22,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6833": {
       "name": "太康精密",
@@ -6736,27 +6736,27 @@
     },
     "6903": {
       "name": "巨漢",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 323.5,
+      "chg_1d": 0,
+      "net_1d_yi": 0.07,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6910": {
       "name": "德鴻",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 24.4,
+      "chg_1d": -0.81,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6913": {
       "name": "鴻呈",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 145,
+      "chg_1d": -2.68,
+      "net_1d_yi": 0.08,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6920": {
       "name": "恆勁科技",
@@ -6768,11 +6768,11 @@
     },
     "6925": {
       "name": "意藍",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 50,
+      "chg_1d": -0.99,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6927": {
       "name": "聯合聚晶",
@@ -6824,11 +6824,11 @@
     },
     "6967": {
       "name": "汎瑋材料",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 72.8,
+      "chg_1d": -3.7,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6969": {
       "name": "成信實業*-創",
@@ -6848,11 +6848,11 @@
     },
     "6983": {
       "name": "華洋精機",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 300.5,
+      "chg_1d": 1.18,
+      "net_1d_yi": 0.07,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "6987": {
       "name": "寶晶能源*",
@@ -6880,11 +6880,11 @@
     },
     "6997": {
       "name": "博弘",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 68.5,
+      "chg_1d": -1.15,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "7455": {
       "name": "樺緯物聯",
@@ -6920,11 +6920,11 @@
     },
     "7704": {
       "name": "明遠精密",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 64.4,
+      "chg_1d": 2.38,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "7711": {
       "name": "永擎",
@@ -6944,19 +6944,19 @@
     },
     "7716": {
       "name": "昱臺國際",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 23.95,
+      "chg_1d": -2.64,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "7717": {
       "name": "萊德光電-KY",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 423,
+      "chg_1d": -0.47,
+      "net_1d_yi": 0.08,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "7732": {
       "name": "金興精密",
@@ -6968,11 +6968,11 @@
     },
     "7738": {
       "name": "東聯互動",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 166.5,
+      "chg_1d": -0.3,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "7758": {
       "name": "睿騰能源",
@@ -6992,11 +6992,11 @@
     },
     "7770": {
       "name": "君曜",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 38,
+      "chg_1d": -1.94,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "7786": {
       "name": "東方風能",
@@ -7016,11 +7016,11 @@
     },
     "7828": {
       "name": "創新服務",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 1630,
+      "chg_1d": -5.51,
+      "net_1d_yi": 0.18,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "7856": {
       "name": "漢測",
@@ -7080,11 +7080,11 @@
     },
     "8027": {
       "name": "鈦昇",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 169.5,
+      "chg_1d": -6.87,
+      "net_1d_yi": 0.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8028": {
       "name": "昇陽半導體",
@@ -7104,11 +7104,11 @@
     },
     "8038": {
       "name": "長園科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 30.9,
+      "chg_1d": -1.12,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8039": {
       "name": "台虹",
@@ -7120,11 +7120,11 @@
     },
     "8044": {
       "name": "網家",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 25.45,
+      "chg_1d": -0.97,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8046": {
       "name": "南電",
@@ -7136,43 +7136,43 @@
     },
     "8050": {
       "name": "廣積",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 56.4,
+      "chg_1d": -1.57,
+      "net_1d_yi": 0.11,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8054": {
       "name": "安國",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 80,
+      "chg_1d": -2.2,
+      "net_1d_yi": -0.16,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8067": {
       "name": "志旭",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 12.8,
+      "chg_1d": -1.16,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8068": {
       "name": "全達",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 16.95,
+      "chg_1d": -2.02,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8069": {
       "name": "元太",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 157.5,
+      "chg_1d": -3.08,
+      "net_1d_yi": -6.04,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8070": {
       "name": "長華*",
@@ -7184,11 +7184,11 @@
     },
     "8071": {
       "name": "能率網通",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 23.6,
+      "chg_1d": -2.07,
+      "net_1d_yi": 0.05,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8078": {
       "name": "華寶",
@@ -7208,11 +7208,11 @@
     },
     "8086": {
       "name": "宏捷科",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 115,
+      "chg_1d": -4.56,
+      "net_1d_yi": -6.55,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8104": {
       "name": "錸寶",
@@ -7224,35 +7224,35 @@
     },
     "8107": {
       "name": "大億金茂",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 12.1,
+      "chg_1d": -2.42,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8109": {
       "name": "博大",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 134.5,
+      "chg_1d": 3.46,
+      "net_1d_yi": -0.24,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8111": {
       "name": "立碁",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 55.5,
+      "chg_1d": -3.14,
+      "net_1d_yi": -0.14,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8121": {
       "name": "越峰",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 27.85,
+      "chg_1d": -3.13,
+      "net_1d_yi": 0.01,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8131": {
       "name": "福懋科",
@@ -7272,11 +7272,11 @@
     },
     "8155": {
       "name": "博智",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 319,
+      "chg_1d": 1.11,
+      "net_1d_yi": 0.06,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8162": {
       "name": "微矽電子-創",
@@ -7312,11 +7312,11 @@
     },
     "8234": {
       "name": "新漢",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 68.2,
+      "chg_1d": 0.15,
+      "net_1d_yi": -0.02,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8261": {
       "name": "富鼎",
@@ -7336,11 +7336,11 @@
     },
     "8299": {
       "name": "群聯",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 2000,
+      "chg_1d": -4.08,
+      "net_1d_yi": 2.35,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8341": {
       "name": "日友",
@@ -7368,11 +7368,11 @@
     },
     "8423": {
       "name": "保綠-KY",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 17.9,
+      "chg_1d": 0.56,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8443": {
       "name": "阿瘦",
@@ -7392,11 +7392,11 @@
     },
     "8472": {
       "name": "夠麻吉",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 69.7,
+      "chg_1d": -1.55,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "8473": {
       "name": "山林水",
@@ -7416,11 +7416,11 @@
     },
     "8477": {
       "name": "創業家",
-      "price": null,
-      "chg_1d": null,
-      "net_1d_yi": null,
-      "market": null,
-      "quoteStatus": "missing"
+      "price": 15.8,
+      "chg_1d": 0.64,
+      "net_1d_yi": 0,
+      "market": "TPEX",
+      "quoteStatus": "ok"
     },
     "9102": {
       "name": "東亞科",
@@ -7487,8 +7487,8 @@
       "ok": true,
       "okCount": 18,
       "failCount": 2,
-      "rows": 15505,
-      "lastOkDate": "2026-08-17",
+      "rows": 15510,
+      "lastOkDate": "2026-08-18",
       "lastError": "This operation was aborted"
     },
     {
