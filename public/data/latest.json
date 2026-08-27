@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "requestedDate": "2026-08-28",
-  "updatedAt": "2026-08-27T20:42:54.620Z",
+  "updatedAt": "2026-08-27T20:51:40.377Z",
   "marketChg1d": 0.31,
   "isMarketDown": false,
   "sectors": [
@@ -7485,20 +7485,20 @@
     {
       "source": "tpex-price",
       "ok": true,
-      "okCount": 20,
-      "failCount": 0,
-      "rows": 17256,
+      "okCount": 19,
+      "failCount": 1,
+      "rows": 16391,
       "lastOkDate": "2026-08-27",
-      "lastError": null
+      "lastError": "terminated"
     },
     {
       "source": "tpex-chip",
       "ok": true,
-      "okCount": 19,
-      "failCount": 1,
-      "rows": 14951,
+      "okCount": 20,
+      "failCount": 0,
+      "rows": 15728,
       "lastOkDate": "2026-08-27",
-      "lastError": "HTTP 520"
+      "lastError": null
     },
     {
       "source": "twse-index",
